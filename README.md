@@ -1,5 +1,7 @@
 # Spasm Protocol Ecosystem Reference Modules
 
+Mirrors: [Forgejo](https://git.spasm.network/spasm-network/spasm-modules) [Codeberg](https://codeberg.org/spasm-network/spasm-modules) [Github](https://github.com/spasm-network/spasm-modules)
+
 # List
 
 | Count | Title | Guardian | Status |
